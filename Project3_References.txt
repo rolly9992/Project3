@@ -1,0 +1,38 @@
+
+Here is a list of websites that I referenced to assist in completing this project:
+
+#a few videos to solidify SVD related concepts. 
+
+https://www.youtube.com/watch?v=d7iIb_XVkZs
+
+https://www.youtube.com/watch?v=5d67893GJao
+
+https://www.youtube.com/watch?v=nbBvuuNVfco
+
+https://www.youtube.com/watch?v=epoHE2rex0g
+
+#quick refresh on the dot product 
+https://www.youtube.com/watch?v=x06nL__ECpg
+
+#exploring the sklearn truncated SVD model. 
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html
+
+https://machinelearningmastery.com/singular-value-decomposition-for-dimensionality-reduction-in-python/
+
+#I explored the possibility of using this module. Could be useful for future projects  
+https://surprise.readthedocs.io/en/stable/getting_started.html#getting-started
+
+#looking at someone's version of a class to decompose a matrix. 
+https://github.com/John-6670/svd-decomposition/blob/main/svd/svd.py
+
+#to see how someone used SVD in a pipeline alone with a logistic regression model
+https://blockgeni.com/singular-value-decomposition-for-dimensionality-reduction-in-python/
+
+#the numpy doc page 
+https://numpy.org/doc/stable/index.html
+
+#and the pandas site for syntax & function references as needed. 
+https://pandas.pydata.org/
+
+
+
